@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/constants/index.ts","./src/middlewares/aws.handler.ts","./src/middlewares/file.handler.ts","./src/middlewares/project.build.ts"],"version":"5.6.3"}
